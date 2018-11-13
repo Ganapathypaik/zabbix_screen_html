@@ -1,5 +1,5 @@
 # We have used zabbix as a monitoring tool for Performance monitoring during our load test , and at the end of the load test 
-we would require a report to show cast the metrics collected  as a part of final report.
+#we would require a report to show cast the metrics collected  as a part of final report.
 
 # The output of the script will give us an html file with all the metrics monitored on a particular screen.
 
