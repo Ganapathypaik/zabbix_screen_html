@@ -2,7 +2,7 @@
 # on Centos 7
 # Command -------- sudo yum install Xvfb --------( Capital X)
 # Command -------- sudo yum install  wkhtmltopdf --------------
-# Command -------- xvfb-run /usr/bin/wkhtmltopdf http://www.google.com google.pdf
+# 
 # Final Command Below
 # 
 # 
